@@ -1,0 +1,5 @@
+# Taido Shodan #
+
+## Hello World! ##
+
+The plan is to publish my collection of notes that contains what a taidoka needs to know in order to become a shodan.
