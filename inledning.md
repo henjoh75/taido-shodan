@@ -1,4 +1,4 @@
-# Inledning #
+# Inledning
 
 Taido är en modern japansk kampkonst – budo – med mycket rörelse både på och ovanför mattan. I jissen (kamp) rör man sig runt, över och under motståndaren. Taido kallas därför för en 3-dimensionell kamponst. Taido står även för en blandning av tradition och nytänkande och brukar därför även få epitetet 2000-talets kampkonst.
 
@@ -7,7 +7,7 @@ Taido innehåller liksom karaten sparkar och slag, men där upphör likheterna d
 Med ovanstående sagt vill jag säga att (nästan) vem som helst kan lära sig Taido. Det finns inga krav på att kunna göra volter, utom möjligen på elitnivå där de behövs för att ge högre poäng vid tävling. Det är en bra, allsidig träning för hela kroppen och även sinnet. 
 
 
-## Historia ##
+## Historia
 
 Efter drygt 20 års utveckling skapades taidon formellt år 1965 av Saiko Shihan, Seiken Shukumine från Okinawa, Japan.
 
@@ -20,7 +20,7 @@ TODO:
 - …
 ```
 
-## Taido idag ##
+## Taido idag
 
 Idag (2018) finns Taido förutom i Sverige och Japan även i Australien, Danmark, England, Finland, Frankrike, Holland, Norge, Portugal, Tyskland och USA. I Sverige finns föreningar i Göteborg, Henån, Höganäs, Kungälv, Malmö, Stenungsund, Stockholm, Strömstad, Uddevalla, Vänersborg och Örebro. 
 
