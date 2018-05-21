@@ -7,4 +7,5 @@ The plan is to publish my collection of notes that contains what a taidoka needs
 
 ## Innehåll ##
 
-- [Inledning](Inledning)
+- [Inledning](inledning)
+- [Kläder](klader)
