@@ -1,16 +1,16 @@
-# Kläder #
+# Kläder
 
-## Gi – Dräkt ##
+## Gi – Dräkt
 
 Som nybörjare är det oftast ok att använda vanliga träningskläder i form av träningsbyxor och t-shirt, men efter första graderingen kan det vara dags att skaffa en taido-gi. Denna består av en jacka – uwagi – ett par vida, svarta byxor – hakama – och ett bälte – obi.
 
 [TODO: bild:person i gi]
 
-### Hur man viker sin dogi ###
+### Hur man viker sin dogi
 
 TODO: Uwagi, hakama, obi...
 
-## Grader och titlar ##
+## Grader och titlar
 
 Som i så många andra kampsporter finns det olika grader och färgade bälten även i Taido. 
 
@@ -22,6 +22,6 @@ Efter 1 kyu är nästa grad 1 dan – shodan, svart bälte. 8 dan är den högst
 
 Det finns även färgade svarta bälten som är kopplade till en titel man kan gradera sig till utöver själva graden. 4-5 dan kan få titeln Renshi (instruktör) med svart och lila bälte, 6-7 dan kan få titeln Kyoshi (lärare) med svart och grönt bälte och 8 dan kan få titeln Hanshi (mästare) med svart och brunt bälte.
 
-## Hur man knyter bältet ##
+## Hur man knyter bältet
 
 TODO: ...
