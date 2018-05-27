@@ -9,6 +9,6 @@ The plan is to publish my collection of notes that contains what a taidoka needs
 
 - [Inledning](inledning)
 - [Kläder](klader)
-- [Gå in i dojon](/dojo)
-- [Grundläggande begrepp](grundlaggande)
+- [Gå in i dojon](dojo)
+- [Grundläggande begrepp](grunder)
 - [Tachi - Fotställningar](tachi)
