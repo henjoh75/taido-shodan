@@ -1,8 +1,8 @@
 # Taido Shodan #
 
-## Hello World! ##
+Planen är att lägga upp mina anteckningar om vad en taidoka behöver veta för att bli en shodan här. Jag kommer att göra lite i taget när jag har tid så det kommer att växa fram sakta men förhoppningsvis säkert. :-)
 
-The plan is to publish my collection of notes that contains what a taidoka needs to know in order to become a shodan.
+Har du tankar om innehållet så hör gärna av dig, eller skapa en pull request.
 
 
 ## Innehåll ##
@@ -12,3 +12,13 @@ The plan is to publish my collection of notes that contains what a taidoka needs
 - [Gå in i dojon](dojo)
 - [Grundläggande begrepp](grunder)
 - [Tachi - Fotställningar](tachi)
+- [Kamae - Grundställningar]
+- [Unsoku - Fotförflyttningar]
+- [Unshin]
+- [Blockeringar]
+- [Taiki - Andning]
+- [Kihongi - Grundtekniker]
+- [Hokei - Form]
+- [Kobo]
+- [Jissen - Kamp]
+- [Shinsa]
