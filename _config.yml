@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: taido shodan
+header_pages:
+  - inledning.md
+  - klader.md
+  
