@@ -131,7 +131,7 @@ Untai shomen geri nukite, blick höger, långsam hidari shudan gamae, untai shom
 
 Långsam gedan gamae, seiza, rei.
 
-> &ast; Tänk dig att det kommer en attack framifrån, t ex en hentai ebi geri, som du vill bort ifrån.
+> \* Tänk dig att det kommer en attack framifrån, t ex en hentai ebi geri, som du vill bort ifrån.
  
 ## Hentai no hokei
 Seiza, rei, hidari gedan gamae.
