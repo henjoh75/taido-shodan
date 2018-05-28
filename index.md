@@ -18,7 +18,7 @@ Har du tankar om innehållet så hör gärna av dig, eller gå till [projektet p
 - [Blockeringar]
 - [Taiki - Andning]
 - [Kihongi - Grundtekniker]
-- [Hokei - Form]
+- [Hokei - Form](hokei)
 - [Kobo]
 - [Jissen - Kamp]
 - [Shinsa]
