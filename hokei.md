@@ -69,7 +69,7 @@ Långsam gedan gamae, seiza, rei.
 Senin no hokei är den enda hokei som innehåller tre kiai.
 ```
 
-# Untai no hokei
+## Untai no hokei
 
-# Unin no hokei
+## Unin no hokei
 
