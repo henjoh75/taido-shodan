@@ -3,6 +3,8 @@
 En hokei följer ett förutbestämt mönster av rörelser med attacker och försvar mot/med tänkta motståndare. Här appliceras grundteknikerna 
 i ett sammanhang. Det vi inom Taido kallar hokei motsvaras av kata i många andra budo.
 
+Till shodan ingår nedanstående hokei:
+
 - [Sentai no hokei](#sentai-no-hokei)
 - [Senin no hokei](#senin-no-hokei)
 - [Untai no hokei](#untai-no-hokei)
@@ -96,7 +98,7 @@ Kasoku, untai shomen geri, gensoku, gedan barai, untai tobu nidan geri, vändnin
 Kasoku, untai shomen geri, gensoku, gedan barai, untai tobu nidan geri, vändning (i luften), fuse, tsuisoku, blick höger, vänster ben ihop till det högra och därefter bak till migi shudan gamae.
 
 ### Hemvägen + Ankaret
-Untai eji suki, steg fram med höger ben sedan steg ihop med vänster samtidigt som händerna först dras till hikite och sedan 45º uppåt (höger hand underst), (1) fuse (höger ben bak), untai tobu nidan geri, ushiro hentai manji geri, ushiro sentai chokujo zuki, blick över höger axel, vrid upp 135º, stick bak höger fot till långsam hidari shudan gamae.
+Untai eji suki, steg fram med höger ben sedan steg ihop med vänster samtidigt som händerna först dras till hikite och sedan 45º uppåt (höger hand underst), fuse (höger ben bak), untai tobu nidan geri, ushiro hentai manji geri, ushiro sentai chokujo zuki, blick över höger axel, vrid upp 135º, stick bak höger fot till långsam hidari shudan gamae.
 
 Untai oshi kuzushi, steg bak, blick höger, migi shudan gamae, untai oshi kuzushi med kiai.
 
@@ -123,12 +125,13 @@ Sentai san bon nukite, steg bakåt med vändning till långsam migi shudan gamae
 Sentai san bon nukite, steg bakåt nådåt, moro te suihei nukite (åt sidorna), långsamt upp till stående i heisoku dachi med händerna i hikite.
 
 ### Hemvägen + Ankaret
-Höger fot bakåt till hidari shudan gamae, untai shomen geri nukite, vändning till fuse , untai hijen geri (landa med bakre foten på startpunkten), dra in höger fot och flytta den 45º till en långsam hidari shudan gamae snett framåt.
+Höger fot bakåt till hidari shudan gamae, untai shomen geri nukite, vändning till fuse(*), untai hijen geri (landa med bakre foten på startpunkten), dra in höger fot och flytta den 45º till en långsam hidari shudan gamae snett framåt.
 
 Untai shomen geri nukite, blick höger, långsam hidari shudan gamae, untai shomen geri nukite med kiai, tai soku, tai soku, långsam hidari shudan gamae.
 
 Långsam gedan gamae, seiza, rei.
 
+> &ast; Tänk dig att det kommer en attack framifrån, t ex en hentai ebi geri, som du vill bort ifrån.
  
 ## Hentai no hokei
 Seiza, rei, hidari gedan gamae.
