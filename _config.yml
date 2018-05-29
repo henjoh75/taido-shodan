@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: taido shodan
-logo: /imgages/taido-shodan.png
+logo: /images/taido-shodan.png
 header_pages:
   - inledning.md
   - klader.md
