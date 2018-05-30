@@ -1,17 +1,17 @@
 # Grundläggande begrepp
 …
 
-## Några japanska termer
+## Vanliga ord i en taido dojo
 
 Ord | Betydelse
 --- | ---
 Honte | Främre handen
 Soete | Bakre handen
-Hikite | Dra in handen mot nedre revbensbågen så att underarmen går prallellt med marken och kidoosen (armbågen ska peka rakt bakåt).
+Hikite | Dra in handen mot nedre revbensbågen så att underarmen går parallellt med marken och kidoosen (armbågen ska peka rakt bakåt).
 Hikiashi | Dra upp knät mot bröstkorgen, tårna på foten följer med upp…
-Kaba | Ganmen (ansikte) kaba: Håll in armbågen
-Kidoten | ...
-Kidosen | ...
+Kaba | Skydda; Ganmen kaba: Skydda ansikte
+Kidooten | ...
+Kidoosen | ...
 Hidari | Vänster
 Migi | Höger
 Taidoka | Utövare av taido
@@ -19,7 +19,6 @@ Shodan | Första dan
 Dan | Steg, nivå - svartbältesgrad
 Kyu | Grad före svartbältes grad
 
-(Fler i appendix?)
 
 ### Räkneord
 
@@ -43,34 +42,37 @@ Jyuu | 10
 
 Ord | Betydelse
 --- | ---
-Knytnäve | Seiken
-Platt knytnäve | Hiraken
-Spjuthand | Nukite
-Underarm | Techu?
-Armbåge | Empi/Hiji (finns kanske inte med i den här boken?)
-Handflata(?) | Shotei
-Svärdhand | Tegatana
-Handkant/Knivhand | Shuto
+Seiken | Knytnäve
+Hiraken | Platt knytnäve
+Nukite | Spjuthand
+Techu? | Underarm
+Empi/Hiji | Armbåge
+Shotei | Handflata(?)
+Tegatana | Svärdhand
+Shuto | Handkant/Knivhand
 
 ### Ben/fot
 
 Ord | Betydelse
 --- | ---
-Trampdyna | Chusoku
-Svärdfot | Ashigatana, Fotens yttre kant – Sokuto
-Häl | Kakato
-Skenben | Sune
-Knä | Shitto/Hiza?
+Chusoku | Trampdyna
+Ashigatana |  Svärdfot
+Sokuto | Fotens yttre kant
+Kakato | Häl
+Sune | Skenben
+Shitto/Hiza? | Knä
 
 
 ## Träffytor
 
-Nedre revbensbågarna  
-Urinblåsan (kangen)  
-Njurarna  
-Solarplexus - Kikai  
-Mjälte – Hizo  
-Nyckelben – Sakotsu  
-Ben – Ashi  
-Kropp – Do  
-Nacke – Kubi  
+Ord | Betydelse
+--- | ---
+ | Nedre revbensbågarna  
+kangen | Urinblåsan  
+ | Njurarna  
+Kikai | Solarplexus  
+Hizo | Mjälte 
+Sakotsu | Nyckelben 
+Ashi | Ben 
+Do | Kropp 
+Kubi | Nacke 
