@@ -10,8 +10,7 @@ Har du tankar om innehållet så hör gärna av dig, eller gå till [projektet p
 ## Innehåll ##
 
 - [Inledning](inledning)
-- [Kläder](klader)
-- [Gå in i dojon](dojo)
+- [Förberedelser](forberedelser)
 - [Grundläggande begrepp](grunder)
 - [Tachi - Fotställningar](tachi)
 - [Kamae - Grundställningar]
