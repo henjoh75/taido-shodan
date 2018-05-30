@@ -1,4 +1,21 @@
-# Gå in i Dojon
+# Förberedelser
+
+## Gi – Dräkt
+
+Som nybörjare är det oftast ok att använda vanliga träningskläder i form av träningsbyxor och t-shirt, men efter första graderingen kan det vara dags att skaffa en taido-gi. Denna består av en vit jacka – uwagi – ett par vida, svarta byxor – hakama – och ett bälte – obi (se grader).
+
+[TODO: bild:person i gi]
+
+### Hur man viker sin dogi
+
+TODO: Uwagi, hakama, obi...
+
+## Hur man knyter bältet
+
+TODO: ...
+
+
+## Gå in i Dojon
 
 När man går in i träningslokalen - *dojon* - ska man lämna allt som inte har med träningen att göra utanför. En markering/trigger för detta är att man hälsar 
 mot dojon när man går in och ut. Ställ om hjärnan till ”träningsläge” och fokusera på aktiviteten i dojon.
@@ -24,8 +41,7 @@ E: *”Otagani rei”* (hälsa på varandra)
 A: *“Onegai shimasu”*  
 E: *“Keiritzu”*  
  
-
-Vid uthälsning låter det likadant förutom att man instället för att be varandra att lära oss, tackar för en bra träning. Detta genom att byta ut ”Onegai shimasu” mot ”Domo arrigato gozaimasu”.
+Vid uthälsning låter det likadant förutom att man instället för att be varandra att lära oss, tackar för en bra träning. Detta genom att byta ut *”Onegai shimasu”* mot *”Domo arrigato gozaimasu”*.
 
 ## Taido gojokun
 
