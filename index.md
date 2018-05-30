@@ -17,7 +17,7 @@ Har du tankar om innehållet så hör gärna av dig, eller gå till [projektet p
 - [Unshin]
 - [Blockeringar]
 - [Taiki - Andning]
-- [Kihongi - Grundtekniker]
+- [Kihongi - Grundtekniker](kihongi)
 - [Hokei - Form](hokei)
 - [Kobo]
 - [Jissen - Kamp]
