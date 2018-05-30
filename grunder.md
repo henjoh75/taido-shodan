@@ -14,6 +14,10 @@ Kidoten | ...
 Kidosen | ...
 Hidari | Vänster
 Migi | Höger
+Taidoka | Utövare av taido
+Shodan | Första dan
+Dan | Steg, nivå - svartbältesgrad
+Kyu | Grad före svartbältes grad
 
 (Fler i appendix?)
 
